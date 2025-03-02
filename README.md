@@ -17,7 +17,7 @@ please follow my github for more information, Thanks
 if you encounter any errors during installation, use this
 
 ```js
-npm i --lecagy-peer-deps
+npm i --legacy-peer-deps
 ```
 
 and type this command, then enter
